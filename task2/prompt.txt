@@ -1,0 +1,18 @@
+please create a technical ticket for jira for following user bug report
+"Logout button doesn’t work on Safari. It just doesn’t respond."
+
+the ticket should include following sections:
+
+Title
+Description
+Steps to Reproduce
+Expected vs Actual Behavior
+Environment (if known)
+Severity or Impact
+
+make it concise, technical, easy to follow. if you come up with edge cases, please note them in description
+
+
+second Prompt
+
+please give the result for md file
