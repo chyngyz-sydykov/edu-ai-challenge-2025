@@ -1,0 +1,57 @@
+// first prompt response
+{
+  "summary": "Remote work has gained popularity, especially post-pandemic, due to benefits like increased flexibility, better work-life balance, and reduced costs for companies. However, challenges such as employee isolation, decreased productivity, and performance monitoring persist. Despite this, remote and hybrid models are expected to remain, supported by evolving collaboration technologies.",
+  "sentiment": "neutral",
+  "sentiment_score": 0,
+  "metadata": {
+    "word_count": 154,
+    "main_topics": [
+      "remote work",
+      "pandemic-driven work changes",
+      "employee satisfaction",
+      "productivity challenges",
+      "hybrid work models",
+      "collaboration tools"
+    ],
+    "tone": "balanced and analytical",
+    "perspective": "informative, highlighting both pros and cons"
+  }
+}
+
+// second prompt response
+
+{
+  "paragraph": 1,
+  "summary": "Remote work has become more widespread, especially post-pandemic, offering benefits such as improved work-life balance for employees and cost savings for employers.",
+  "sentiment": "positive",
+  "sentiment_score": 1,
+  "metadata": {
+    "topics": ["remote work", "pandemic", "employee satisfaction", "cost savings"],
+    "tone": "optimistic",
+    "word_count": 97
+  }
+}
+
+{
+  "paragraph": 2,
+  "summary": "Remote work brings challenges like employee isolation, productivity issues, and difficulties for employers in managing performance and communication.",
+  "sentiment": "negative",
+  "sentiment_score": -1,
+  "metadata": {
+    "topics": ["isolation", "productivity", "management challenges"],
+    "tone": "concerned",
+    "word_count": 88
+  }
+}
+
+{
+  "paragraph": 3,
+  "summary": "Remote work is expected to remain, with hybrid models emerging and technology enhancing collaboration and team efficiency.",
+  "sentiment": "positive",
+  "sentiment_score": 1,
+  "metadata": {
+    "topics": ["hybrid work", "technology", "future of work"],
+    "tone": "hopeful and forward-looking",
+    "word_count": 65
+  }
+}
