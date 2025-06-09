@@ -1,0 +1,21 @@
+{
+  "name": "enigma-machine",
+  "version": "1.0.0",
+  "description": "Enigma machine implementation",
+  "main": "enigma.js",
+  "scripts": {
+    "test": "jest",
+    "test:coverage": "jest --coverage"
+  },
+  "jest": {
+    "coverageReporters": ["json", "lcov", "text", "clover"],
+    "coverageDirectory": "coverage",
+    "collectCoverageFrom": [
+      "*.js",
+      "!coverage/**"
+    ]
+  },
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
